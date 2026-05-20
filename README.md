@@ -1,4 +1,3 @@
-```md
 # 👋 Olá, eu sou [Evandro Benedetti]
 
 💻 Estudante de Desenvolvimento de Sistemas  
@@ -83,4 +82,3 @@ Acredito que nunca é tarde para aprender algo novo 🚀
 ✨ Obrigado por visitar meu perfil ✨
 
 </div>
-```
