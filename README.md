@@ -32,9 +32,9 @@ Acredito que nunca é tarde para aprender algo novo 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrobenedetti25-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrobenedetti25-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -44,7 +44,7 @@ Acredito que nunca é tarde para aprender algo novo 🚀
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=evandrobenedetti25-dev&theme=tokyonight&hide_border=false"/>
 
 </div>
 
