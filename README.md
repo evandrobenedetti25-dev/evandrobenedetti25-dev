@@ -28,12 +28,7 @@ Acredito que nunca é tarde para aprender algo novo 🚀
 
 ---
 
-# 📊 Estatísticas GitHub
-
-![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=evandrobenedetti25-dev&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrobenedetti25-dev&layout=compact&theme=github_dark)
-
+## 📊 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=evandrobenedetti25-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrobenedetti25-dev&theme=dark&hide_border=false&layout=compact)
 ---
 
 # 🔥 Sequência de contribuições
