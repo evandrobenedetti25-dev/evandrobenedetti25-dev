@@ -52,22 +52,16 @@ Venho de outra área, mas encontrei na programação algo que despertou minha cu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrobenedetti25-dev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrobenedetti25-dev&theme=github_dark&hide_border=true&layout=compact&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandrobenedetti25-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrobenedetti25-dev&theme=dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats — serviço alternativo mais estável -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=evandrobenedetti25-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<!-- Gráfico de atividade -->
-[![Evandro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evandrobenedetti25-dev&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Streak Stats — DIO Stats (mais estável) -->
+<img src="https://streak-stats.demolab.com?user=evandrobenedetti25-dev&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
